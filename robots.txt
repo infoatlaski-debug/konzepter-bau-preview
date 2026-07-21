@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_content-source.md
+Disallow: /_crm.json
+Disallow: /*.md$
+
+Sitemap: https://konzepterbau.de/sitemap.xml
